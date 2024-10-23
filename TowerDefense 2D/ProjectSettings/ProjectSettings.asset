@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: d6c1f35dfa972db4b98fc7ff267ecd09
+  productGUID: e41ecfb434f22784f85cda8fb125ee7c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TowerDefense
+  productName: TowerDefense 2D
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -626,14 +626,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TowerDefense
+  metroPackageName: TowerDefense 2D
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: TowerDefense
+  metroApplicationDescription: TowerDefense 2D
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -701,10 +701,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 37f24e49-dd0a-400a-84c0-3f5c4881797c
+  cloudProjectId: a4a7ec4d-d0d6-47fd-9cb6-2937c7e4f239
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: TowerDefense 2024-10-23_09-14-56
+  projectName: TowerDefense 2D
   organizationId: ipysks
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
